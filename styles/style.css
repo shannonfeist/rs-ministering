@@ -1,10 +1,17 @@
 /* resubmitting */
 
+.body {
+    max-width: 1600px;
+}
 .main {
     background-color: #a6dbdb;
     text-align: center;
     padding-top: 50px;
 }
 .main h1 {
+    width: 100%;
     color: rgb(11, 11, 26);
+}
+.schedule {
+    width: 100%;
 }
